@@ -5,7 +5,7 @@ Picon enigma2 de canales de television de las diferentes comunidades autonomicas
 *   **Grupo telegram de ayuda y soporte:** [https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA](https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA)
 *   **Web oficial jungle-team:** [https://jungle-team.com/](https://jungle-team.com/)
 
-**Si deseas que se añadan los picones TDT de tu zona envia el favorito tdt de tu deco enigma2 al grupo telegram de jungle-team.** 
+**Si deseas que se añadan los picones TDT de tu zona envia el favorito tdt de tu deco enigma2 al grupo telegram de jungle-team.**
 
 ---
 
@@ -21,18 +21,13 @@ Los picones de los canales que se realizan para las diferentes comunidades auton
 
 *   Formato .png
 *   Tamaño 440 x 264
-*   **nombre de los picones basados en el nombre del canal por lo que se pueden meter directamente en el receptor seas de la comunidad autonomica que seas**. 
+*   **nombre de los picones basados en el nombre del canal por lo que se pueden meter directamente en el receptor seas de la comunidad autonomica que seas**.
 
 Realizamos 1 de formato de picon
 
 | **TIPO** | ultima actualizacion | Picones realizados |
 | --- | --- | --- |
-| Transparente | 19-08-2022 | 
-Generalistas
-
-Illes Balears
-
- |
+| Transparente | 19-08-2022 | Generalistas-Baleares |
 
 ---
 
