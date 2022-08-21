@@ -28,8 +28,9 @@ Realizamos 1 de formato de picon
 | **TIPO** | ultima actualizacion | Picones realizados |
 | --- | --- | --- |
 | Transparente | 19-08-2022 | 
-*   Generalistas TDT
-*   Illes Balears
+Generalistas
+
+Illes Balears
 
  |
 
