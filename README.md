@@ -35,8 +35,6 @@ Realizamos 1 de formato de picon
 
 Para que podais ver visualmente como es cada picon y de esta manera haceros mejor idea de como son los mismos os dejamos unas capturas de los mismos: 
 
-<table><tbody><tr><td><strong>Modelo</strong></td><td><strong>Formato</strong></td><td><strong>Captura</strong></td></tr><tr><td>Transparente</td><td>tipo .png</td><td><figure class="image"><img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cd38ad806c0161f20d269269ea719251c9fcbd9b35f35699.png" srcset="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cd38ad806c0161f20d269269ea719251c9fcbd9b35f35699.png/w_120 120w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cd38ad806c0161f20d269269ea719251c9fcbd9b35f35699.png/w_200 200w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cd38ad806c0161f20d269269ea719251c9fcbd9b35f35699.png/w_280 280w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cd38ad806c0161f20d269269ea719251c9fcbd9b35f35699.png/w_360 360w, https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/cd38ad806c0161f20d269269ea719251c9fcbd9b35f35699.png/w_440 440w" sizes="100vw" width="440"></figure></td></tr></tbody></table>
-
 ---
 
 ## **Como realizar la instalacion de los picones**
