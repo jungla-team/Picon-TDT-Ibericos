@@ -13,7 +13,7 @@ Picon enigma2 de canales de television de las diferentes comunidades autonomicas
 
 La descarga de **los picones es gratuita**, no obstante si te gustan y deseas colaborar Para el mantenimiento de los servidores y Blog que gestiona jungle-team puedes realizar una donacion:
 
-[![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b69f38d9861307945a17725238ddbcfdafcf9ebaa31ae74b.png)](https://www.paypal.me/jungleteam)
+https://www.paypal.me/jungleteam
 
 ## Formato Picones
 
