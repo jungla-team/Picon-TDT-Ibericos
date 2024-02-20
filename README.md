@@ -27,7 +27,7 @@ Realizamos 1 de formato de picon
 
 | **TIPO** | ultima actualizacion | Picones realizados |
 | --- | --- | --- |
-| Transparente | 20-02-2024 | Generalistas-Baleares-larioja-sevilla |
+| Transparente | 20-02-2024 | Generalistas-Baleares-larioja-sevilla-valencia |
 
 ---
 
