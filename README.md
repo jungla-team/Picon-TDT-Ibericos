@@ -27,7 +27,7 @@ Realizamos 1 de formato de picon
 
 | **TIPO** | ultima actualizacion | Picones realizados |
 | --- | --- | --- |
-| Transparente | 23-02-2024 | Generalistas-Baleares-larioja-sevilla-valencia-galicia-cadiz-castillaleon-toledo-burgos-tarragona |
+| Transparente | 27-02-2024 | Generalistas-Baleares-larioja-sevilla-valencia-galicia-cadiz-castillaleon-toledo-burgos-tarragona-almeria |
 
 ---
 
